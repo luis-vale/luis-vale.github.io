@@ -1,1 +1,2 @@
-# Hello jakob anthony todd
+# Main Page
+### Hi, welcome to the home page. I am a 21 year old who likes doing nerdy projects for fun. I will present my projects on this page. I'll include things like covers of music that I like playing, solutions to textbooks that I like, or other engineering projects that I run into. This is mostly a page for me to keep track of my accomplishments and keep myself accountable for what I have created.
